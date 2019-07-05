@@ -10,6 +10,7 @@
 
     <artifactId>basic</artifactId>
     <packaging>jar</packaging>
-    <name>benchmarks</name>
+    <name>basic</name>
+    <version>0.1.0</version>
 
 </project>
